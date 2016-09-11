@@ -34,9 +34,10 @@ Think `you`,please call me  `coder`.文字高亮突出显示，用``包围起来
 >>>>层级4
 >>>>>层级5<br>
 ##插入网络图片<br>
-![baidu](https://www.baidu.com/img/baidu_jgylogo3.gif "百度logo")
+![baidu](https://www.baidu.com/img/baidu_jgylogo3.gif "百度logo")<br>
 ##插入github上的图片<br>
-![git and github](https://github.com/xum1100/git-github-summary/raw/master/github.jpeg)
+![git and github](https://github.com/xum1100/git-github-summary/raw/master/github.jpeg "思维导图")<br>
+
 
 
 
