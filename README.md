@@ -1,6 +1,6 @@
 # markdown-guide
 #mardown使用指南
-链接http://blog.csdn.net/kaitiren/article/details/38513715，链接直接写上URL就行
+链接直接写上URL就行http://blog.csdn.net/kaitiren/article/details/38513715
 #一级标题，标题前面1个\#号
 ##二级标题，标题前面2个\#号
 ###三级标题，标题前面3个\#号
