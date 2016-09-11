@@ -88,7 +88,8 @@ http://www.baidu.com
 ## 文字超链接
 [百度](http://www.baidu.com "百度一下你就知道")
 ## 图片超链接
-[![baidu]](http://www.baidu.com) [baidu]:https://www.baidu.com/img/baidu_jgylogo3.gif "百度logo"  
+[![baidu]](http://www.baidu.com) 
+[baidu]:https://www.baidu.com/img/baidu_jgylogo3.gif "百度logo"  
 ## 插入网络图片
 ![baidi](https://www.baidu.com/img/baidu_jgylogo3.gif "百度 logo")  
 ## 插入github上的图片
