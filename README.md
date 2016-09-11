@@ -43,26 +43,30 @@ Think `you`,please call me  `coder`.文字高亮突出显示，用``包围起来
 <br>
 <br>
 <br>
-# markdown语法
-# 一级标题
-## 二级标题
-### 三级标题
-#### 四级标题
-##### 五级标题
-###### 六级标题
+# markdown语法 #
+## 参考资料 ##
+https://www.zhihu.com/question/20409634  
+简明版[markdown语法说明(简体中文版)](http://wowubuntu.com/markdown/basic.html)  
+完整版[markdown语法说明(简体中文版)](http://wowubuntu.com/markdown/index.html)
+# 一级标题 #
+## 二级标题 ##
+### 三级标题 ###
+#### 四级标题 ####
+##### 五级标题 #####
+###### 六级标题 ######
 大标题
 ===
 中标题
 ---
 文字正常大小，有下划横线  
-
+s
 ===
 普通文本换行  
 用空格空格回车换行  
 　文本前全角输入空格有效  
 *强调，相当于em*  
-_强调，相当于strong_  
-## 无序列表
+_强调，相当于strong_
+## 无序列表 ##
 * 列表项1
 * 列表项2
 * 列表项3
@@ -78,21 +82,20 @@ _强调，相当于strong_
 - 列表项2
 - 列表项3
     - 列表项3.1
-        - 列表项3.1.1 
-## 有序列表
+        - 列表项3.1.1
+## 有序列表 ##
 1. 列表项1
 2. 列表项2
 3. 列表项3
-## 链接
+## 链接 ##
 http://www.baidu.com
-## 文字超链接
+## 文本超链接 ##
 [百度](http://www.baidu.com "百度一下你就知道")
-## 图片超链接
-[![baidu]](http://www.baidu.com) 
-[baidu]:https://www.baidu.com/img/baidu_jgylogo3.gif "百度logo"  
-## 插入网络图片
+## 图片超链接 ##
+[![baidu]](http://www.baidu.com) [baidu]:https://www.baidu.com/img/baidu_jgylogo3.gif "百度logo"  
+## 插入网络图片 ##
 ![baidi](https://www.baidu.com/img/baidu_jgylogo3.gif "百度 logo")  
-## 插入github上的图片
+## 插入github上的图片 ##
 ![github](https://www.github.com/xum1100/git-github-summary/raw/master/github.jpeg "a chart about git")  
 >单行文本
 
@@ -100,19 +103,9 @@ http://www.baidu.com
 
 >单行文本
 
-## 代码块
+## 代码块 ##
 ```javascript
 document.getElementById("banner").innerHTML = "Hello world"
 ```
-## 文本高亮凸显
+## 文本高亮凸显 ##
 Thank `you`,welcome to `HangZhou`.  
-
-
-
-
-
-
-
-
-
-
