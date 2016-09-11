@@ -40,6 +40,71 @@ Think `you`,please call me  `coder`.文字高亮突出显示，用``包围起来
 ##给图片加上超链接<br>
 [![baidu]](http://www.baidu.com) 
 [baidu]:https://www.baidu.com/img/baidu_jgylogo3.gif "百度logo"
+<br>
+<br>
+<br>
+# markdown语法
+# 一级标题
+## 二级标题
+### 三级标题
+#### 四级标题
+##### 五级标题
+###### 六级标题
+大标题
+===
+中标题
+---
+文字正常大小，有下划横线  
+
+===
+普通文本换行  
+用空格空格回车换行  
+　文本前全角输入空格有效  
+*强调，相当于em*  
+_强调，相当于strong_
+## 无序列表
+* 列表项1
+* 列表项2
+* 列表项3
+    * 列表项3.1
+    * 列表项3.2
+        * 列表项3.2.1
++ 列表项1
++ 列表项目2
++ 列表项3
+    + 列表项3.1
+        + 列表项3.1.1 
+- 列表项1
+- 列表项2
+- 列表项3
+    - 列表项3.1
+        - 列表项3.1.1
+## 有序列表
+1. 列表项1
+2. 列表项2
+3. 列表项3
+http://www.baidu.com
+## 文字超链接
+[百度](http://www.baidu.com "百度一下你就知道")
+## 图片超链接
+[![baidu]](http://www.baidu.com) [baidu]:https://www.baidu.com/img/baidu_jgylogo3.gif "百度logo"  
+## 插入网络图片
+![baidi](https://www.baidu.com/img/baidu_jgylogo3.gif "百度 logo")  
+## 插入github上的图片
+![github](https://www.github.com/xum1100/git-github-summary/raw/master/github.jpeg "a chart about git")  
+>单行文本
+
+>单行文本
+
+>单行文本
+
+## 代码块
+```javascript
+document.getElementById("banner").innerHTML = "Hello world"
+```
+## 文本高亮凸显
+Thank `you`,welcome to `HangZhou`.  
+
 
 
 
